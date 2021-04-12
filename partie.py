@@ -1,6 +1,5 @@
 #--------------------------------------jeu puissance 4------------------------------------#
-#--------------------------------------realisé par Neili Mariem FIA-01 groupe 1----------#
-#--------------------------------------date de reception : 15/02/2021--------------------#
+#--------------------------------------realisé par Neili Mariem ----------#
 
 from Grille import Grille
 from joueur import Joueur
